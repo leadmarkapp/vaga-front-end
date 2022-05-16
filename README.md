@@ -19,7 +19,6 @@ Buscamos pessoas com grande capacidade criativa e raciocício lógico 🤓, capa
 - Implementação sobre WebSocket
 - jQuery
 - Experiência com comunicação via API REST
-- Experiência com GraphQL
 - Domínio com Git :octocat:
 - Práticas de documentação
 - Testes
