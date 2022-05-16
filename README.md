@@ -45,5 +45,5 @@ Buscamos pessoas com grande capacidade criativa e raciocício lógico 🤓, capa
 <strong>Ficou interessado?</strong><br>
 Entre em contato conosco enviando email para:<br>
 <strong>leadmarkapp@gmail.com</strong>, cópia para <strong>leandro.mendestavares@gmail.com</strong><br>
-<strong>Assunto do email:</strong> Vaga Front-end Stack<br>
+<strong>Assunto do email:</strong> Vaga Front-end<br>
 <strong>Atenção:</strong> anexar currículo
