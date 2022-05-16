@@ -8,7 +8,7 @@
 
 <strong>O que buscamos?</strong>
 
-Buscamos pessoas com grande capacidade de criativa 🤓, capaz de aceitar desafios e desejam trabalhar em projetos de inovação. 🚀✈️🚀
+Buscamos pessoas com grande capacidade criativa 🤓, capaz de aceitar desafios e desejam trabalhar em projetos de inovação. 🚀✈️🚀
 
 <strong>Habilidades Técnicas:</strong>
 
