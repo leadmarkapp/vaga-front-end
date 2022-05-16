@@ -27,7 +27,6 @@ Buscamos pessoas com grande capacidade de raciocício lógico 🤓, capaz de ace
 
 - Cases / Aplicações desenvolvidas
 - React Native
-- Docker
 - Conhecimento de UI e boas noções de UX
 - Figma / Ilustrator / Photoshop
 
