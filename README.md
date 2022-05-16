@@ -12,10 +12,10 @@ Buscamos pessoas com grande capacidade de raciocício lógico 🤓, capaz de ace
 
 <strong>Habilidades Técnicas:</strong>
 
-- Experiência com desenvolvimento web 👨‍💻
-- Conhecimentos sólidos em <strong>Javascript</strong>
+- Conhecimentos sólidos em <strong>Javascript</strong> 👨‍💻
 - Conhecimentos sólidos em HTML5 e CSS3
 - <strong>React JS</strong>
+- <strong>Next Js</strong>
 - jQuery
 - Experiência com comunicação via API REST
 - Experiência com GraphQL
