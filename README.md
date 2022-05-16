@@ -17,9 +17,10 @@ Buscamos pessoas com grande capacidade criativa e raciocício lógico 🤓, capa
 - <strong>React JS</strong>
 - <strong>Next Js</strong>
 - Implementação sobre WebSocket
-- jQuery
 - Experiência com comunicação via API REST
 - Domínio com Git :octocat:
+- jQuery
+- WordPress
 - Práticas de documentação
 - Testes
 
