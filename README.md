@@ -14,7 +14,7 @@ Buscamos pessoas com grande capacidade criativa e raciocício lógico 🤓, capa
 
 - Conhecimentos sólidos em <strong>Javascript</strong> 👨‍💻
 - Conhecimentos sólidos em HTML5 e CSS3
-- Tailwindcss
+- Tailwindcss e Flexbox
 - <strong>React JS</strong>
 - <strong>Next Js</strong>
 - Implementação sobre WebSocket
