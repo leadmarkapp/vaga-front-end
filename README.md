@@ -40,7 +40,7 @@ Buscamos pessoas com grande capacidade criativa e raciocício lógico 🤓, capa
 
 <strong>Locação e Contratação:</strong>
 
-- 100% Remoto (sede em Fortaleza)
+- 100% Remoto (sede em Fortaleza) 🌎
 - CLT ou PJ à combinar de acordo com a experiência
 
 <br>
